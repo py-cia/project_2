@@ -6,5 +6,5 @@ shinyapp
 # week, you know it was dark and cloudy. I think this affected my low medium and large observations. There was also a $.75 small cone sale during this time as well. 
 # I'm assuming this contributed to seeing more small measurements than others. I purchased a new scale that recorded ounces to the nearest tenth to avoid any instrument error. 
 # The scale at work was not digital like the new one i purchased, and had many ticks that made it hard to read at first glance. The new scale should avoid seeing many .5's or
-# whole numbers. I made sure to let the people on ice-cream duty to pretend the new scale and paper with their measurements were not there; this would have caused internal
-# bias to make better cones. 
+# whole numbers. I made sure to tell the people on ice-cream duty to pretend the new scale and paper with their measurements were not there; this would have caused
+# internal bias to make better cones. 
